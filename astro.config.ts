@@ -21,7 +21,7 @@ import { pluginLineNumbers } from '@expressive-code/plugin-line-numbers'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  site: 'https://flocto.github.io',
+  site: 'https://scriptkidd.ie',
   integrations: [
     expressiveCode({
       themes: ['github-light', 'github-dark'],
